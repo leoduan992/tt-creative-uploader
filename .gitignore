@@ -1,0 +1,4 @@
+﻿# env & build
+.env*
+.next
+node_modules
